@@ -1,2 +1,6 @@
-# hello.c
-C Programming Code
+#include <stdio.h>
+
+int main() {
+printf("Hello, Github!");
+return 0;
+}
